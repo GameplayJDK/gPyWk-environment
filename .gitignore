@@ -1,0 +1,9 @@
+commitmsg/
+commitmsg/*
+__pycache__/
+__pycache__/*
+desktop.ini
+*.pyc
+*.xcf
+gPyWk.sublime-project
+gPyWk.sublime-workspace

@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"configFileContent"
+			],
+			[
+				"conf",
+				"configFileContent"
+			],
+			[
+				"w",
+				"Window"
+			],
+			[
+				"abs",
+				"absoluteConfigFilePath"
+			],
+			[
+				"call",
+				"call_parameter_target"
+			],
+			[
+				"A",
+				"Api"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"call_pa",
+				"call_parameter_target"
+			],
+			[
+				"starts",
+				"startswith"
+			],
+			[
+				"req",
+				"request_uri"
+			],
+			[
+				"requ",
+				"request_uri"
+			],
+			[
+				"windowDef",
+				"windowDefaultHeight"
+			],
+			[
+				"windowD",
+				"windowDefaultWidth"
+			],
+			[
+				"sc",
+				"ScrollWindow"
+			],
+			[
+				"Sc",
+				"ScrollWindow"
+			],
+			[
+				"set_de",
+				"set_default_size"
+			],
+			[
+				"set",
+				"set_mask"
+			],
+			[
+				"wk",
+				"wk_webview"
+			],
+			[
+				"dow",
+				"Downloading"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"track",
+				"track_id_store"
+			],
+			[
+				"glo",
+				"globbed"
+			],
+			[
+				"dowd",
+				"Downloaded"
+			],
+			[
+				"t_",
+				"t_name"
+			],
+			[
+				"nam",
+				"name_cache"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"ex",
+				"extend"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Application.json",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Browser.py",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Application.py",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/JSONConfig.py",
+		"/usr/lib/python2.7/json/decoder.py",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Api.js",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/gPyWk",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/gPyWk.sublime-workspace",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Main.py",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/Api.py",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/default.html",
+		"/home/gameplayjdk/Documents/tmp/gPyWk-environment/api/execute.py",
+		"/home/gameplayjdk/Documents/Projects/python/py-desktop-wk/wk-frame.py",
+		"/home/gameplayjdk/Documents/Projects/python/py-desktop-wk/test2.py",
+		"/home/gameplayjdk/Documents/Projects/python/py-desktop-wk/pytwin.py",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync-v1.3.py",
+		"/usr/share/applications/netbeans-8.0.1.desktop",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync-v1.2.py",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync-v1.1.py",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync-v1.0.py",
+		"/usr/share/applications/netbeans-8.0.desktop",
+		"/usr/share/applications/JB-jconsole-jdk8.desktop",
+		"/usr/share/applications/JB-mission-control-jdk8.desktop",
+		"/usr/share/applications/JB-controlpanel-jdk8.desktop",
+		"/usr/share/applications/JB-policytool-jdk8.desktop",
+		"/usr/share/applications/JB-java-jdk8.desktop",
+		"/usr/share/applications/JB-jvisualvm-jdk8.desktop",
+		"/usr/share/applications/JB-javaws-jdk8.desktop",
+		"/usr/share/applications/wingpanel.desktop",
+		"/usr/share/applications/noise.desktop",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/blahtest.py",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync.py",
+		"/home/gameplayjdk/Documents/tmp/pySCLikeSync-master/src/pySCLikeSync.advanced.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"n",
+			"txtfile",
+			"cache"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
