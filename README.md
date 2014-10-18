@@ -14,13 +14,13 @@ Only consisting of a scrollable WebKit WebView and a powerful and flexible "x-js
 
 Planned features are:
 
-* Windows support (vista and newer)
-* Packaging tool 
+* Windows support (depending on PyGI progress; the available version is outdated)
+* Packaging tool (as a sfx-shell-script)
 
 ## Requirements
 
 * [GNOME's GObject Introspection (pyGI) 3.12.0-1 or newer](https://wiki.gnome.org/Projects/PyGObject/)
-* [Python 3.4.0 or newer](https://www.python.org/download/releases/3.4.0/)
+* [Python 3.4.0 32bit or newer](https://www.python.org/download/releases/3.4.0/)
 
 ## Downloads
 
@@ -39,7 +39,7 @@ Planned features are:
 
 The documentation is in progress and will be available under `https://github.com/GameplayJDK/gPyWk-environment/tree/master/documentation` [#](https://github.com/GameplayJDK/gPyWk-environment/tree/master/documentation).
 
-**Important:** Make sure you read the blog article on [How to use the gPyWk-environment to create a HTML5 desktop application]() (Coming soon)
+**Important:** Make sure you read the blog article on [How to use the gPyWk-environment to create a HTML5 desktop application](https://gameplayjdk.wordpress.com/2014/10/20/how-to-use-gpywk-environment-to-create-a-html5-desktop-application-20-10-2014/) (available 10/20/2014)
 
 ## Bug Notice
 
