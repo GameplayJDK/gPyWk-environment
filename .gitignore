@@ -5,5 +5,5 @@ __pycache__/*
 desktop.ini
 *.pyc
 *.xcf
-gPyWk.sublime-project
-gPyWk.sublime-workspace
+gPyWk-environment.sublime-project
+gPyWk-environment.sublime-workspace
