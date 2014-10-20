@@ -25,9 +25,9 @@ Planned features are:
 ## Downloads
 
 * **v0.0.1a** - Release scheduled for 10/21/2014
-  * .tar.gz Archive [[direct link](http://download950.mediafire.com/g9y5kf2y4uig/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz)] [[permanent link](http://www.mediafire.com/download/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz)] (from MediaFire.com)
+  * .tar.gz Archive [[direct link](http://download1494.mediafire.com/ieji1bq6bzqg/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz)] [[permanent link](http://www.mediafire.com/download/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz)] (from MediaFire.com)
   * Launchpad PPA [[lp link](../..)] (Coming soon)
-  * Zipped repository [[clone link](https://github.com/GameplayJDK/gPyWk-environment/archive/master.zip)] (from GitHub.com)
+  * Zipped repository [[clone link](../../archive/master.zip)] (from GitHub.com)
 
 ## Installation
 
