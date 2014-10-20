@@ -7,3 +7,5 @@ desktop.ini
 *.xcf
 gPyWk-environment.sublime-project
 gPyWk-environment.sublime-workspace
+create-dl-package.sh
+gPyWk-environment-v*.*.*.tar.gz
