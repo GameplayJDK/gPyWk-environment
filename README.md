@@ -25,9 +25,9 @@ Planned features are:
 ## Downloads
 
 * **v0.0.1a** - Release scheduled for 10/21/2014
-  * .tar.gz Archive [direct link](http://download950.mediafire.com/g9y5kf2y4uig/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz) [permanent link](http://www.mediafire.com/download/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz) (from MediaFire.com)
-  * Launchpad PPA [lp link](../..) (Coming soon)
-  * Zipped repository [clone link](https://github.com/GameplayJDK/gPyWk-environment/archive/master.zip)
+  * .tar.gz Archive [[direct link](http://download950.mediafire.com/g9y5kf2y4uig/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz)] [[permanent link](http://www.mediafire.com/download/5svho5zn8b1md97/gPyWk-environment-v0.0.1a.tar.gz)] (from MediaFire.com)
+  * Launchpad PPA [[lp link](../..)] (Coming soon)
+  * Zipped repository [[clone link](https://github.com/GameplayJDK/gPyWk-environment/archive/master.zip)] (from GitHub.com)
 
 ## Installation
 
@@ -40,7 +40,7 @@ Planned features are:
 
 The documentation is in progress and will be available under `https://github.com/GameplayJDK/gPyWk-environment/tree/master/documentation` [#](https://github.com/GameplayJDK/gPyWk-environment/tree/master/documentation).
 
-**Important:** Make sure you read the blog article on [How to use the gPyWk-environment to create a HTML5 desktop application for Linux](https://gameplayjdk.wordpress.com/2014/10/20/how-to-use-gpywk-environment-to-create-a-html5-desktop-application-for-linux-21-10-2014/) (available 10/21/2014)
+**Important:** Make sure you read the blog article on [How to use the gPyWk-environment to create a HTML5 desktop application for Linux](http://gameplayjdk.wordpress.com/2014/10/21/how-to-use-gpywk-environment-to-create-a-html5-desktop-application-for-linux-21-10-2014/) (available 10/21/2014)
 
 ## Bug Notice
 
