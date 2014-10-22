@@ -25,9 +25,9 @@ Planned features are:
 ## Downloads
 
 * **v0.0.1a** - Release scheduled for 10/21/2014
-  * .tar.gz Archive [[direct link](http://download1494.mediafire.com/ieji1bq6bzqg/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz)] [[permanent link](http://www.mediafire.com/download/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz)] (from MediaFire.com)
-  * Launchpad PPA [[lp link](../..)] (Coming soon)
-  * Zipped repository [[clone link](../../archive/master.zip)] (from GitHub.com)
+  * .tar.gz Archive ( [direct link](http://download1494.mediafire.com/ieji1bq6bzqg/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz) ), ( [permanent link](http://www.mediafire.com/download/23pv2mqlmcaa6aa/gPyWk-environment-v0.0.1a.tar.gz) ) - (from MediaFire.com)
+  * Launchpad PPA ( [lp link](../..) ) - (Coming soon)
+  * Zipped repository [[clone link](../../archive/master.zip)] - (from GitHub.com)
 
 ## Installation
 
@@ -64,4 +64,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 ```
-View full license [here](http://www.gnu.org/license/gpl.txt).
+View full license [here](http://www.gnu.org/licenses/gpl.txt).
